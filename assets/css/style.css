@@ -66,7 +66,7 @@ a {
   width:960px;
   margin-bottom: 20px;
   display: table;
-  border-spacing: 32px;
+  border-spacing: 30px;
   clear:both;
 }
 
@@ -86,6 +86,7 @@ section {
 
 #content {
   margin-left: 70px;
+  margin-right: 8px;
   width: 650px;
   overflow: hidden;
 }
