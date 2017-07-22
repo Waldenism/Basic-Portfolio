@@ -63,9 +63,10 @@ a {
 }
 
 #mainZone {
+  width:960px;
   margin-bottom: 20px;
   display: table;
-  border-spacing: 33px;
+  border-spacing: 30px;
   clear:both;
 }
 
