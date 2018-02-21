@@ -1,7 +1,5 @@
 # Basic-Portfolio
 
-<h1> Basic Portfolio <h2>
-
 <p> First real coding project ever. A personal site using HTML 5 and CSS3 </p>
 
 <p>
