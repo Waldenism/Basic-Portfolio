@@ -1,11 +1,11 @@
-/* This style sheet was ditched in favor of bugaloo */
-
 * { 
   margin: 0;
 }
+
 html, body {
   height:100%;
 }
+
 body {
     background-image: url('../images/gaming-pattern.png');
 }
@@ -45,7 +45,6 @@ h1 {
   width: 300px;
   float: right;
   padding: 35px;
-  /*white-space: nowrap;*/
   display: inline;
   margin-right: 50px;
   opacity: .67;
@@ -55,7 +54,6 @@ h1 {
 
 #headList li{
   display: inline-block;
-  /*color:           #777777;*/
   padding: 5px;
 }
 
@@ -175,22 +173,13 @@ footer {
   padding: 35px;
 }
 
-#portfoliostuff {
-  /*margin: -20px 30px -5px 30px;*/
-  border:solid blue 2px;
-}
-
 .portfolioRow {
-  /*border:solid green 2px;*/
-  /*margin-bottom: 50px;*/
-  /*margin-top: 50px;*/
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
 .portfolioImage {
-  /*border:solid orange 2px;*/
   position: relative;
 }
 
